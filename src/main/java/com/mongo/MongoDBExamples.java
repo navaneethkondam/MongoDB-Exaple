@@ -12,7 +12,7 @@ import com.mongodb.MongoException;
  * Java + MongoDB Hello world Example
  *
  */
-public class MongoDBExample{
+public class MongoDBExamples{
     public static void main(String[] args) {
 
         try {
